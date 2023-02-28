@@ -8,6 +8,7 @@ I have more experience with C and C++ than most other languages, though I also u
 Java, JavaScript, and C#.
 
 Discord: MakotoMiyamoto#0215
+
 Email: makoto.cs.dev@gmail.com
 
 <!---
