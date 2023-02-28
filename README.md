@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @MakotoMiyamoto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+@MakotoMiyamoto
+Computer science student and hobbyist programmer. I use Ubuntu systems primarily.
 
-If it wasn't obvious, I haven't configured this yet.
+My other hobbies include modding and RTS. I sometimes watch anime if I'm procrastinating.
+
+I have more experience with C and C++ than most other languages, though I also use Rust, Python,
+Java, JavaScript, and C#.
+
+Discord: MakotoMiyamoto#0215
+Email: makoto.cs.dev@gmail.com
 
 <!---
 MakotoMiyamoto/MakotoMiyamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
