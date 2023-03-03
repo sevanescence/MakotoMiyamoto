@@ -7,6 +7,8 @@ My other hobbies include modding and RTS. I sometimes watch anime if I'm procras
 I have more experience with C and C++ than most other languages, though I also use Rust, Python,
 Java, JavaScript, and C#.
 
+I don't commit a lot.
+
 Discord: MakotoMiyamoto#0215
 
 Email: makoto.cs.dev@gmail.com
